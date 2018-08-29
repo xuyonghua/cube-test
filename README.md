@@ -21,5 +21,7 @@ npm run lint
 ```
 
 ### link
-[cube-application-guide]https://github.com/cube-ui/cube-application-guide
-[cube-ui官网]https://didi.github.io/cube-ui/#/zh-CN/docs/quick-start
+
+[cube-application-guide](https://github.com/cube-ui/cube-application-guide)
+
+[cube-ui官网](https://didi.github.io/cube-ui/#/zh-CN/docs/quick-start)
